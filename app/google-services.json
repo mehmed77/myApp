@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "763336654317",
+    "firebase_url": "https://my-app-f3b8b.firebaseio.com",
+    "project_id": "my-app-f3b8b",
+    "storage_bucket": "my-app-f3b8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763336654317:android:a992a5669009656e",
+        "android_client_info": {
+          "package_name": "basiccalc.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763336654317-men3oggj908tkapg7lnqqk46fvrt1poo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqICJBRwDeKPC0uHxzUkSGjk3OGeax70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

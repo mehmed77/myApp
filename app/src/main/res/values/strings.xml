@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Uz Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="login_form">Login Form</string>
+    <string name="hint_email">Your Email</string>
+    <string name="hint_password">Your Password</string>
+    <string name="log_in">Log In !!</string>
+    <string name="log_out">Logout !!</string>
+    <string name="log_in_back">Back to Log In !!</string>
+    <string name="reg_form">Register Form</string>
+    <string name="sign_up">Registration</string>
+    <string name="hint_username">User Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_blank_fragment">Home blank fragment</string>
+    <string name="chat_blank_fragment">Chat blank fragment</string>
+    <string name="explore_blank_fragment">Explore blank fragment</string>
+    <string name="friend_blank_fragment">Friend blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
